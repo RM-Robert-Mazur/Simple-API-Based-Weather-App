@@ -1,4 +1,4 @@
-# ⛅ Simple weather app ⛅
+# ⛅ Simple Weather App ⛅
 
 Another JavaScript based application which was a part of my aim to refresh my basic JavaScript knowledge. This simple weather app uses Accu Weather API to retrieve current weather conditions for specified city of our choice.
 
